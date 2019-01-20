@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/orlandolucas/Library/Unity/Packages/node_modules'
+let g:netrw_dirhist_2='/Users/orlandolucas/.vim'
+let g:netrw_dirhist_3='/Users/orlandolucas/Desktop/University/CompSci/COMP2017/Assignment1/.gitignore'
+let g:netrw_dirhist_4='/Users/orlandolucas/Desktop/University/CompSci/COMP2017/Tutorials/week7/tutorial7/q3_talker'
+let g:netrw_dirhist_5='/Users/orlandolucas/Desktop/University/CS/COMP3419/Assignment/wganTest'
